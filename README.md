@@ -1,4 +1,4 @@
-### Quiz App In Kotlin
+### Animal Quiz App In Kotlin
 
 
 ### Snapshots
